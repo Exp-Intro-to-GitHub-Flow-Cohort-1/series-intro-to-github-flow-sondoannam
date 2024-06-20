@@ -1,1 +1,1 @@
-This is new repo profile!
+Welcome to my GitHub profile!
